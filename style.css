@@ -1,0 +1,30 @@
+body{
+    background-color: hsl(228, 17%, 70%);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+  }
+  .container{
+    background-color: #ffffff;
+    height: 394px;
+    width: 252px;
+    border-radius: 20px;
+  }
+  .image1{
+    height: 224px; 
+    width: 235px; 
+    border-radius: 10px; 
+    margin-left: -6px;
+    margin-top: 10px;
+  }
+  .p1{
+    font-size: 13px;
+    margin-top: 17px;
+    margin-left: -3px; 
+    text-align: center; 
+    color: #0000005e;
+  }
+  
